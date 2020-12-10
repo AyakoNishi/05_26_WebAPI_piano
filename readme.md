@@ -1,6 +1,6 @@
 # 課題：03 Web audio API ～piano
 
-デプロイ先：https://ayakonishi.github.io/02_26_JankenBaseball/
+デプロイ先：https://ayakonishi.github.io/05_26_WebAPI_piano/
 
 ## プロダクトの紹介
 - Web audio API を利用して、ブラウザでピアノを作りました。（コピペです）
